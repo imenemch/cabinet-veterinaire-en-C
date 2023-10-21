@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1678477888 source:d:\nouveau nom\data\b1 bachelor\algo et programmation c\programmes c\cabinet_vétérinaire\main.c
+	"Cabinet_Vet.h"
+
+1678476979 source:d:\nouveau nom\data\b1 bachelor\algo et programmation c\programmes c\cabinet_vétérinaire\cabinet_vet.c
+	"Cabinet_Vet.h"
+
+1678476398 d:\nouveau nom\data\b1 bachelor\algo et programmation c\programmes c\cabinet_vétérinaire\cabinet_vet.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
